@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome! 🌱
+
+My name is Stephen, but most will know me by my username Netsu. I am a full stack web developer.
+
+I'm currently learning ReactNative and Django, my favorite programming language is Python and I use Manjaro Linux as my primary OS.
+
+I have a YouTube channel called [Steve's teacher](https://www.youtube.com/stevesteacher) where I teach other how to code and make occasional how-to and comedy videos.
 
 <!--
 **WeebNetsu/WeebNetsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
