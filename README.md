@@ -1,8 +1,12 @@
 ### Welcome! 🌱
 
-My name is Stephen, but most will know me by my username Netsu. I am a full stack web developer.
+From South Africa comes the full stack developer Stephen.
 
-I'm currently learning ReactNative and Django, my favorite programming language is Python and I use Manjaro Linux as my primary OS.
+- 🔭 I’m currently working on a background music player that works on-top of MPV.
+- 🌱 I’m currently learning Django, Kivy and TypeScript.
+- 👯 OS of choice: Linux (Manjaro MATE)
+- ⚡ Top 3 programming languages: Python, Lua, C++
+- 😄 Pronouns: He/Him
 
 I have a YouTube channel called [Steve's teacher](https://www.youtube.com/stevesteacher) where I teach other how to code and make occasional how-to and comedy videos.
 
