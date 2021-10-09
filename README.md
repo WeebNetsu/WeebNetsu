@@ -3,7 +3,7 @@
 From South Africa comes the full stack developer Stephen.
 
 - 🔭 I’m currently working on a background music player that works on-top of MPV.
-- 🌱 I’m currently learning Kivy, Arduino and TypeScript.
+- 🌱 I’m currently learning Kivy and Nim.
 - 👯 OS of choice: Linux (Manjaro MATE)
 - ⚡ Top 3 programming languages: Python, Lua, C++
 - 😄 Pronouns: He/Him
