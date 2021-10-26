@@ -5,7 +5,7 @@ From South Africa comes the full stack developer Stephen.
 - 🔭 I’m currently working on a background music player that works on-top of MPV.
 - 🌱 I’m currently learning Kivy and Nim.
 - 👯 OS of choice: Linux (Manjaro MATE)
-- ⚡ Top 3 programming languages: Python, Lua, C++
+- ⚡ Top 3 programming languages: Python, Nim, JavaScript
 - 😄 Pronouns: He/Him
 
 I have a YouTube channel called [Steve's teacher](https://www.youtube.com/stevesteacher) where I teach other how to code and make occasional how-to and comedy videos.
