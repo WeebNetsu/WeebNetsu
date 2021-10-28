@@ -1,6 +1,6 @@
 ### Welcome! 🌱
 
-From South Africa comes the full stack developer Stephen.
+From South Africa comes the full stack developer, Stephen.
 
 - 🔭 I’m currently working on a background music player that works on-top of MPV.
 - 🌱 I’m currently learning Nim and Kotlin.
