@@ -25,7 +25,7 @@ My Skills:
 [<img alt="Lua" src="https://img.shields.io/badge/-Lua-01007F?style=flat-square&logo=Lua&logoColor=white" />](https://www.lua.org/)
 [<img alt="Nim" src="https://img.shields.io/badge/-Nim-FFE953?style=flat-square&logo=Nim&logoColor=white" />](https://nim-lang.org/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeebNetsu&exclude_repo=An-Ni-Go&hide=makefile,html,cmake,c,css,scss&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeebNetsu&exclude_repo=An-Ni-Go&hide=makefile,html,cmake,c,css,scss,shell&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 I have a YouTube channel called [Steve's teacher](https://www.youtube.com/stevesteacher) where I teach other how to code and make occasional how-to and comedy videos.
 
