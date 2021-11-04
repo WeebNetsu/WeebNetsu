@@ -3,7 +3,7 @@
 From South Africa comes the full stack developer, Stephen.
 
 - 🔭 I’m currently working on a background music player that works on-top of MPV.
-- 🌱 I’m currently learning Nim and Kotlin.
+- 🌱 I’m currently learning Kotlin and Django.
 - 👯 OS of choice: Linux (Manjaro MATE)
 - ⚡ Most loved programming languages: Python, Nim, JavaScript
 - 😄 Pronouns: He/Him
