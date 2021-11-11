@@ -6,7 +6,6 @@ From South Africa comes the full stack developer, Stephen.
 - 🌱 I’m currently learning Kotlin and Django.
 - 👯 OS of choice: Linux (Manjaro MATE)
 - ⚡ Most loved programming languages: Python, Nim, JavaScript
-- 😄 Pronouns: He/Him
 
 My Skills:
 
