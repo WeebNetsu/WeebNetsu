@@ -27,7 +27,13 @@ My Skills:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeebNetsu&exclude_repo=An-Ni-Go&hide=makefile,html,cmake,c,css,scss,shell&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-I have a YouTube channel called [Steve's teacher](https://www.youtube.com/stevesteacher) where I teach other how to code and make occasional how-to and comedy videos.
+<!-- I have a YouTube channel called [Steve's teacher](https://www.youtube.com/stevesteacher) where I teach other how to code and make occasional how-to and comedy videos. -->
+
+Where you can find me:
+
+[<img alt="YouTube" src="https://img.shields.io/badge/-Steve's teacher-FF0000?style=social&logo=youtube&logoColor=FF0000" />](https://www.youtube.com/stevesteacher)
+
+[<img alt="Odysee" src="https://img.shields.io/badge/-Steve's teacher-EE186F?style=social&logo=odysee&logoColor=EE186F" />](https://odysee.com/$/invite/@stevesteacher:0)
 
 <!--
 **WeebNetsu/WeebNetsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
