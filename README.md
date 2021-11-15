@@ -31,9 +31,9 @@ My Skills:
 
 Where you can find me:
 
-[<img alt="YouTube" src="https://img.shields.io/badge/-Steve's teacher-FF0000?style=social&logo=youtube&logoColor=FF0000" />](https://www.youtube.com/stevesteacher)
+[<img alt="YouTube - Steve's teacher" src="https://img.shields.io/badge/-YouTube-FF0000?style=social&logo=youtube&logoColor=FF0000" />](https://www.youtube.com/stevesteacher)
 
-[<img alt="Odysee" src="https://img.shields.io/badge/-Steve's teacher-EE186F?style=social&logo=odysee&logoColor=EE186F" />](https://odysee.com/$/invite/@stevesteacher:0)
+[<img alt="Odysee - Steve's teacher" src="https://img.shields.io/badge/-Odysee-EE186F?style=social&logo=odysee&logoColor=EE186F" />](https://odysee.com/@stevesteacher:0)
 
 <!--
 **WeebNetsu/WeebNetsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
