@@ -2,8 +2,8 @@
 
 From South Africa comes the full stack developer, Stephen.
 
-- 🔭 I’m currently working on a background music player that works on-top of MPV.
-- 🌱 I’m currently learning Kotlin and Django.
+- 🔭 I’m currently working on a background music player that works on-top of MPV and software to manage the content in your recycle bin.
+- 🌱 I’m currently learning Django and Android Dev.
 - 👯 OS of choice: Linux (Manjaro MATE)
 - ⚡ Most loved programming languages: Python, Nim, JavaScript
 
