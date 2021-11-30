@@ -22,9 +22,12 @@ My Skills:
 [<img alt="Flask" src="https://img.shields.io/badge/-Flask-F9CE3A?style=flat-square&logo=flask&logoColor=white" />](https://flask.palletsprojects.com/en/2.0.x/)
 [<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-608D4A?style=flat-square&logo=MongoDB&logoColor=white" />](https://www.mongodb.com/)
 [<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-0077C7?style=flat-square&logo=TypeScript&logoColor=white" />](https://www.typescriptlang.org/)
-[<img alt="Lua" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com)
+[<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com)
 [<img alt="Lua" src="https://img.shields.io/badge/-Lua-01007F?style=flat-square&logo=Lua&logoColor=white" />](https://www.lua.org/)
 [<img alt="Nim" src="https://img.shields.io/badge/-Nim-FFE953?style=flat-square&logo=Nim&logoColor=white" />](https://nim-lang.org/)
+[<img alt="Arch Linux" src="https://img.shields.io/badge/-Arch-1692D0?style=flat-square&logo=archlinux&logoColor=white" />](https://archlinux.org)
+[<img alt="Ubuntu Linux" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />](https://ubuntu.com)
+[<img alt="Solus Linux" src="https://img.shields.io/badge/-Solus-4C5164?style=flat-square&logo=solus&logoColor=white" />](https://getsol.us/home/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeebNetsu&exclude_repo=An-Ni-Go&hide=makefile,html,cmake,c,css,scss,shell&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
