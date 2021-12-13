@@ -3,8 +3,8 @@
 From South Africa comes the full stack developer, Stephen.
 
 - 🔭 I’m currently working on a background music player that works on-top of MPV and software to manage the content in your recycle bin.
-- 🌱 I’m currently learning Django and Android Dev.
-- 👯 OS of choice: Linux (Manjaro MATE)
+- 🌱 I’m currently learning Nim and GraphQL.
+- 👯 OS of choice: Linux (EndeavourOS w/i3)
 - ⚡ Most loved programming languages: Python, Nim, TypeScript
 
 My Skills:
