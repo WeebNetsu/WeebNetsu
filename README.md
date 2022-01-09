@@ -12,6 +12,7 @@ My Skills:
 [<img alt="Python" src="https://img.shields.io/badge/-Python-4985BA?style=flat-square&logo=python&logoColor=white" />](https://www.python.org/)
 [<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-3848A8?style=flat-square&logo=cplusplus&logoColor=white" />](https://www.cplusplus.com)
 [<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-CFB52E?style=flat-square&logo=javascript&logoColor=white" />](https://www.javascript.com/)
+[<img alt="Go" src="https://img.shields.io/badge/-Go-4985BA?style=flat-square&logo=Go&logoColor=white" />](https://go.dev)
 [<img alt="PHP" src="https://img.shields.io/badge/-PHP-687AB2?style=flat-square&logo=php&logoColor=white" />](https://www.php.net/)
 [<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-C712DC?style=flat-square&logo=kotlin&logoColor=white" />](https://kotlinlang.org/)
 [<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-DD7510?style=flat-square&logo=mysql&logoColor=white" />](https://www.mysql.com/)
