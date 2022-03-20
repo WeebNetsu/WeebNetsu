@@ -2,10 +2,10 @@
 
 From South Africa comes the full stack developer, Stephen.
 
-- 🔭 I’m currently working on a background music player that works on-top of MPV and software to manage the content in your recycle bin.
-- 🌱 I’m currently learning Android Dev (w/Kotlin).
-- 👯 OS of choice: Linux (EndeavourOS w/i3)
-- ⚡ Most loved programming languages: Nim, Python, TypeScript
+- 🔭 I’m currently working on fully featured bug tracking.
+- 🌱 I’m currently learning Android Dev (w/Kotlin) and FastAPI.
+- 👯 OS of choice: Linux (EndeavourOS w/i3).
+- ⚡ Most loved programming languages: Nim, Python, TypeScript.
 
 My Skills:
 
