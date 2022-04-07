@@ -3,7 +3,7 @@
 From South Africa comes the full stack developer, Stephen.
 
 - 🔭 I’m currently working on fully featured bug tracking software.
-- 🌱 I’m currently learning Android Dev (w/Kotlin) and FastAPI.
+- 🌱 I’m currently learning ReactNative and FastAPI.
 - 👯 OS of choice: Linux (EndeavourOS w/i3).
 - ⚡ Most loved programming languages: Nim, Python, TypeScript.
 
