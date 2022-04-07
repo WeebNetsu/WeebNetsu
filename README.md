@@ -32,7 +32,7 @@ My Skills:
 [<img alt="Ubuntu Linux" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />](https://ubuntu.com)
 [<img alt="Solus Linux" src="https://img.shields.io/badge/-Solus-4C5164?style=flat-square&logo=solus&logoColor=white" />](https://getsol.us/home/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeebNetsu&exclude_repo=An-Ni-Go,YouTube-Projects,octoco-tuts&hide=makefile,html,cmake,c,css,scss&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeebNetsu&exclude_repo=An-Ni-Go,asteroid,Banking-System,YouTube-Projects,octoco-tuts&hide=makefile,html,cmake,c,css,scss&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- I have a YouTube channel called [Steve's teacher](https://www.youtube.com/stevesteacher) where I teach other how to code and make occasional how-to and comedy videos. -->
 
