@@ -28,9 +28,7 @@ My Skills:
 [<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com)
 [<img alt="Lua" src="https://img.shields.io/badge/-Lua-01007F?style=flat-square&logo=Lua&logoColor=white" />](https://www.lua.org/)
 [<img alt="Nim" src="https://img.shields.io/badge/-Nim-FFE953?style=flat-square&logo=Nim&logoColor=black" />](https://nim-lang.org/)
-[<img alt="Arch Linux" src="https://img.shields.io/badge/-Arch-1692D0?style=flat-square&logo=archlinux&logoColor=white" />](https://archlinux.org)
-[<img alt="Ubuntu Linux" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />](https://ubuntu.com)
-[<img alt="Solus Linux" src="https://img.shields.io/badge/-Solus-4C5164?style=flat-square&logo=solus&logoColor=white" />](https://getsol.us/home/)
+[<img alt="Linux" src="https://img.shields.io/badge/-Linux-4C5164?style=flat-square&logo=linux&logoColor=white" />](https://archlinux.org)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeebNetsu&exclude_repo=An-Ni-Go,asteroid,Banking-System,YouTube-Projects,octoco-tuts&hide=makefile,html,cmake,c,css,scss&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
