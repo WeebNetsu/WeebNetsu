@@ -42,6 +42,8 @@ Where you can find me:
 
 [<img alt="Odysee - Steve's teacher" src="https://img.shields.io/badge/-Odysee-EE186F?style=social&logo=odysee&logoColor=EE186F" />](https://odysee.com/@stevesteacher:0)
 
+[My Github Resume](https://resume.github.io/?WeebNetsu)
+
 <!--
 **WeebNetsu/WeebNetsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
