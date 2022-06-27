@@ -3,7 +3,7 @@
 From South Africa comes the full stack developer, Stephen.
 
 - 🔭 I’m currently working on fully featured bug tracking software.
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently learning Dart.
 - 👯 OS of choice: Linux (EndeavourOS w/i3).
 - ⚡ Most loved programming languages: Nim, Python, TypeScript.
 
@@ -27,6 +27,7 @@ My Skills:
 [<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-608D4A?style=flat-square&logo=MongoDB&logoColor=white" />](https://www.mongodb.com/)
 [<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-0077C7?style=flat-square&logo=TypeScript&logoColor=white" />](https://www.typescriptlang.org/)
 [<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com)
+[<img alt="Dart" src="https://img.shields.io/badge/-Dart-02589b?style=flat-square&logo=dart&logoColor=white" />](https://dart.dev)
 [<img alt="Lua" src="https://img.shields.io/badge/-Lua-01007F?style=flat-square&logo=Lua&logoColor=white" />](https://www.lua.org/)
 [<img alt="Nim" src="https://img.shields.io/badge/-Nim-FFE953?style=flat-square&logo=Nim&logoColor=black" />](https://nim-lang.org/)
 [<img alt="Linux" src="https://img.shields.io/badge/-Linux-4C5164?style=flat-square&logo=linux&logoColor=white" />](https://archlinux.org)
