@@ -28,6 +28,7 @@ My Skills:
 [<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-0077C7?style=flat-square&logo=TypeScript&logoColor=white" />](https://www.typescriptlang.org/)
 [<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com)
 [<img alt="Dart" src="https://img.shields.io/badge/-Dart-02589b?style=flat-square&logo=dart&logoColor=white" />](https://dart.dev)
+[<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-05589d?style=flat-square&logo=flutter&logoColor=white" />](https://flutter.dev)
 [<img alt="Lua" src="https://img.shields.io/badge/-Lua-01007F?style=flat-square&logo=Lua&logoColor=white" />](https://www.lua.org/)
 [<img alt="Nim" src="https://img.shields.io/badge/-Nim-FFE953?style=flat-square&logo=Nim&logoColor=black" />](https://nim-lang.org/)
 [<img alt="Linux" src="https://img.shields.io/badge/-Linux-4C5164?style=flat-square&logo=linux&logoColor=white" />](https://archlinux.org)
