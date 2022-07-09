@@ -5,7 +5,7 @@ From South Africa comes the full stack developer, Stephen.
 - 🔭 I’m currently working on fully featured bug tracking software.
 - 🌱 I’m currently learning Flutter.
 - 👯 OS of choice: Linux (EndeavourOS w/i3).
-- ⚡ Most loved programming languages: Nim, Python, TypeScript.
+- ⚡ Most loved programming languages: Nim, Dart, TypeScript.
 
 My Skills:
 
