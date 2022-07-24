@@ -6,17 +6,18 @@ From South Africa comes the full stack developer, Stephen.
 - 🌱 I’m currently learning Flutter.
 - 👯 OS of choice: Linux (EndeavourOS w/i3).
 - ⚡ Most loved programming languages: Nim, Dart, TypeScript.
+- &#x1F4AB; Most loved frameworks: Flutter, FastAPI, Next.js.
 
 #### My Skills:
 
 
 ##### Programming Languages
 [<img alt="Nim" src="https://img.shields.io/badge/-Nim-FFE953?style=flat-square&logo=Nim&logoColor=black" />](https://nim-lang.org/)
+[<img alt="Dart" src="https://img.shields.io/badge/-Dart-02589b?style=flat-square&logo=dart&logoColor=white" />](https://dart.dev)
 [<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-0077C7?style=flat-square&logo=TypeScript&logoColor=white" />](https://www.typescriptlang.org/)
 [<img alt="Python" src="https://img.shields.io/badge/-Python-4985BA?style=flat-square&logo=python&logoColor=white" />](https://www.python.org/)
 [<img alt="Go" src="https://img.shields.io/badge/-Go-4985BA?style=flat-square&logo=Go&logoColor=white" />](https://go.dev)
 [<img alt="Lua" src="https://img.shields.io/badge/-Lua-01007F?style=flat-square&logo=Lua&logoColor=white" />](https://www.lua.org/)
-[<img alt="Dart" src="https://img.shields.io/badge/-Dart-02589b?style=flat-square&logo=dart&logoColor=white" />](https://dart.dev)
 [<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-3848A8?style=flat-square&logo=cplusplus&logoColor=white" />](https://www.cplusplus.com)
 [<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-C712DC?style=flat-square&logo=kotlin&logoColor=white" />](https://kotlinlang.org/)
 [<img alt="Rust" src="https://img.shields.io/badge/-Rust-f74b00?style=flat-square&logo=rust&logoColor=white" />](https://www.rust-lang.org)
