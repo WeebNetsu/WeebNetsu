@@ -6,7 +6,7 @@ From South Africa comes the full stack developer, Stephen.
 - 🌱 I’m currently learning Flutter.
 - 👯 OS of choice: Linux (EndeavourOS w/i3).
 - ⚡ Most loved programming languages: Nim, Dart, TypeScript.
-- &#x1F4AB; Most loved frameworks: Flutter, FastAPI, Next.js.
+- &#x1F4AB; Most loved frameworks: Flutter, FastAPI, React.js.
 
 #### My Skills:
 
