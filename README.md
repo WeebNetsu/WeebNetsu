@@ -39,8 +39,7 @@ From South Africa comes the full stack developer, Stephen.
 [<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com)
 [<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-DD7510?style=flat-square&logo=mysql&logoColor=white" />](https://www.mysql.com/)
 [<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-608D4A?style=flat-square&logo=MongoDB&logoColor=white" />](https://www.mongodb.com/)
-[<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCB2F?style=flat-square&logo=Firebase&logoColor=black" />](https://www.mongodb.com/)
-[<img alt="Supabase" src="https://img.shields.io/badge/-Supabase-33A870?style=flat-square&logo=Supabase&logoColor=white" />](https://www.mongodb.com/)
+[<img alt="Supabase" src="https://img.shields.io/badge/-Supabase-33A870?style=flat-square&logo=Supabase&logoColor=white" />](https://supabase.com)
 
 
 [![Netsu's Github stats](https://github-readme-stats.vercel.app/api?username=WeebNetsu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
