@@ -55,6 +55,8 @@ Where you can find me:
 
 [My Github Resume](https://resume.github.io/?WeebNetsu)
 
+![](https://komarev.com/ghpvc/?username=WeebNetsu)
+
 <!--
 **WeebNetsu/WeebNetsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
