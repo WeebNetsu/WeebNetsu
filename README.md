@@ -43,7 +43,7 @@ From South Africa comes the full stack developer, Stephen.
 
 
 [![Netsu's Github stats](https://github-readme-stats.vercel.app/api?username=WeebNetsu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeebNetsu&exclude_repo=An-Ni-Go,asteroid,YouTube-Projects,octoco-tuts,Banking-System&hide=makefile,html,cmake,c,css,scss,c%2B%2B&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeebNetsu&exclude_repo=An-Ni-Go,asteroid,YouTube-Projects,octoco-tuts,Banking-System&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- I have a YouTube channel called [Steve's teacher](https://www.youtube.com/stevesteacher) where I teach other how to code and make occasional how-to and comedy videos. -->
 
