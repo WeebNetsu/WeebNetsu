@@ -19,6 +19,7 @@ From South Africa comes the full stack developer, Stephen.
 [<img alt="Go" src="https://img.shields.io/badge/-Go-4985BA?style=flat-square&logo=Go&logoColor=white" />](https://go.dev)
 [<img alt="Lua" src="https://img.shields.io/badge/-Lua-01007F?style=flat-square&logo=Lua&logoColor=white" />](https://www.lua.org/)
 [<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-3848A8?style=flat-square&logo=cplusplus&logoColor=white" />](https://www.cplusplus.com)
+[<img alt="Ruby" src="https://img.shields.io/badge/-Ruby-cc342d?style=flat-square&logo=ruby&logoColor=white" />](https://www.ruby-lang.org/)
 [<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-C712DC?style=flat-square&logo=kotlin&logoColor=white" />](https://kotlinlang.org/)
 [<img alt="Rust" src="https://img.shields.io/badge/-Rust-f74b00?style=flat-square&logo=rust&logoColor=white" />](https://www.rust-lang.org)
 [<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-CFB52E?style=flat-square&logo=javascript&logoColor=white" />](https://www.javascript.com/)
