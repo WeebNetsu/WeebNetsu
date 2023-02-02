@@ -22,17 +22,17 @@ From South Africa comes the full stack developer, Stephen.
 [<img alt="Ruby" src="https://img.shields.io/badge/-Ruby-cc342d?style=flat-square&logo=ruby&logoColor=white" />](https://www.ruby-lang.org/)
 [<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-C712DC?style=flat-square&logo=kotlin&logoColor=white" />](https://kotlinlang.org/)
 [<img alt="Rust" src="https://img.shields.io/badge/-Rust-f74b00?style=flat-square&logo=rust&logoColor=white" />](https://www.rust-lang.org)
-[<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-CFB52E?style=flat-square&logo=javascript&logoColor=white" />](https://www.javascript.com/)
 [<img alt="PHP" src="https://img.shields.io/badge/-PHP-687AB2?style=flat-square&logo=php&logoColor=white" />](https://www.php.net/)
+[<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-CFB52E?style=flat-square&logo=javascript&logoColor=white" />](https://www.javascript.com/)
 [<img alt="Delphi" src="https://img.shields.io/badge/-Delphi-EF2C27?style=flat-square&logo=delphi&logoColor=white" />](https://www.embarcadero.com/products/Delphi)
 
 ##### Libraires and Frameworks
 [<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-05589d?style=flat-square&logo=flutter&logoColor=white" />](https://flutter.dev)
 [<img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009485?style=flat-square&logo=fastapi&logoColor=white" />](https://fastapi.tiangolo.com)
 [<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />](https://nextjs.org)
+[<img alt="Meteor.js" src="https://img.shields.io/badge/-Meteor.js-ff6a3e?style=flat-square&logo=meteor&logoColor=white" />](https://www.meteor.com/)
 [<img alt="React.js" src="https://img.shields.io/badge/-React.js-48CFF7?style=flat-square&logo=react&logoColor=white" />](https://reactjs.org/)
 [<img alt="Flask" src="https://img.shields.io/badge/-Flask-F9CE3A?style=flat-square&logo=flask&logoColor=black" />](https://flask.palletsprojects.com/en/2.0.x/)
-[<img alt="Meteor.js" src="https://img.shields.io/badge/-Meteor.js-ff6a3e?style=flat-square&logo=meteor&logoColor=white" />](https://www.meteor.com/)
 <!-- [<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-8EC13E?style=flat-square&logo=node.js&logoColor=white" />](https://nodejs.org/en/) -->
 
 ##### Other
