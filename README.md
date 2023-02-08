@@ -6,7 +6,7 @@ From South Africa comes the full stack developer, Stephen.
 - 🌱 I’m currently learning Ruby on Rails.
 - 👯 OS of choice: Linux (EndeavourOS w/i3).
 - ⚡ Most loved programming languages: Nim, Dart, TypeScript.
-- &#x1F4AB; Most loved frameworks: Flutter, FastAPI, React.js.
+- &#x1F4AB; Most loved frameworks: Flutter, FastAPI, Meteor.js.
 
 #### My Skills:
 
@@ -29,8 +29,9 @@ From South Africa comes the full stack developer, Stephen.
 ##### Libraires and Frameworks
 [<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-05589d?style=flat-square&logo=flutter&logoColor=white" />](https://flutter.dev)
 [<img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009485?style=flat-square&logo=fastapi&logoColor=white" />](https://fastapi.tiangolo.com)
-[<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />](https://nextjs.org)
 [<img alt="Meteor.js" src="https://img.shields.io/badge/-Meteor.js-ff6a3e?style=flat-square&logo=meteor&logoColor=white" />](https://www.meteor.com/)
+[<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />](https://nextjs.org)
+[<img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby%20On%20Rails-CB0103?style=flat-square&logo=rubyonrails&logoColor=white" />](https://www.meteor.com/)
 [<img alt="React.js" src="https://img.shields.io/badge/-React.js-48CFF7?style=flat-square&logo=react&logoColor=white" />](https://reactjs.org/)
 [<img alt="Flask" src="https://img.shields.io/badge/-Flask-F9CE3A?style=flat-square&logo=flask&logoColor=black" />](https://flask.palletsprojects.com/en/2.0.x/)
 <!-- [<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-8EC13E?style=flat-square&logo=node.js&logoColor=white" />](https://nodejs.org/en/) -->
