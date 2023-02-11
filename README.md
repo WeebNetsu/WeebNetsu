@@ -1,8 +1,9 @@
 ### Welcome! 🌱
 
 From South Africa comes the full stack developer, Stephen.
+<!-- - 🔭 I’m currently working on fully featured bug tracking software. -->
 
-- 🔭 I’m currently working on fully featured bug tracking software.
+- 🔭 Currently scripting C# and JavaScript tutorials.
 - 🌱 I’m currently learning AngularJS.
 - 👯 OS of choice: Linux (EndeavourOS w/i3).
 - ⚡ Most loved programming languages: Nim, Dart, TypeScript.
