@@ -3,7 +3,7 @@
 From South Africa comes the full stack developer, Stephen.
 
 - 🔭 I’m currently working on fully featured bug tracking software.
-- 🌱 I’m currently learning Ruby on Rails.
+- 🌱 I’m currently learning AngularJS.
 - 👯 OS of choice: Linux (EndeavourOS w/i3).
 - ⚡ Most loved programming languages: Nim, Dart, TypeScript.
 - &#x1F4AB; Most loved frameworks: Flutter, FastAPI, Meteor.js.
