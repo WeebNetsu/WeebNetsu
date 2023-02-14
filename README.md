@@ -3,7 +3,7 @@
 From South Africa comes the full stack developer, Stephen.
 <!-- - 🔭 I’m currently working on fully featured bug tracking software. -->
 
-- 🔭 Currently scripting Zig, C# and JavaScript tutorials.
+- 🔭 Currently scripting Nim, PHP and JavaScript tutorials.
 - 🌱 I’m currently learning AngularJS.
 - 👯 OS of choice: Linux (EndeavourOS w/i3).
 - ⚡ Most loved programming languages: Nim, Dart, TypeScript.
