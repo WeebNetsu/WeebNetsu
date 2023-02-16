@@ -26,6 +26,7 @@ From South Africa comes the full stack developer, Stephen.
 [<img alt="PHP" src="https://img.shields.io/badge/-PHP-687AB2?style=flat-square&logo=php&logoColor=white" />](https://www.php.net/)
 [<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-CFB52E?style=flat-square&logo=javascript&logoColor=white" />](https://www.javascript.com/)
 [<img alt="Ruby" src="https://img.shields.io/badge/-Ruby-cc342d?style=flat-square&logo=ruby&logoColor=white" />](https://www.ruby-lang.org/)
+<!-- [<img alt="Pascal" src="https://img.shields.io/badge/-Pascal-f2f200?style=flat-square&logo=pascal&logoColor=white" />](https://www.freepascal.org) -->
 
 ##### Libraires and Frameworks
 [<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-05589d?style=flat-square&logo=flutter&logoColor=white" />](https://flutter.dev)
