@@ -30,10 +30,10 @@ From South Africa comes the full stack developer, Stephen.
 
 ##### Libraires and Frameworks
 [<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-05589d?style=flat-square&logo=flutter&logoColor=white" />](https://flutter.dev)
+[<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />](https://nextjs.org)
 [<img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009485?style=flat-square&logo=fastapi&logoColor=white" />](https://fastapi.tiangolo.com)
 [<img alt="Meteor.js" src="https://img.shields.io/badge/-Meteor.js-ff6a3e?style=flat-square&logo=meteor&logoColor=white" />](https://www.meteor.com/)
 [<img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby%20On%20Rails-CB0103?style=flat-square&logo=rubyonrails&logoColor=white" />](https://www.meteor.com/)
-[<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />](https://nextjs.org)
 [<img alt="React.js" src="https://img.shields.io/badge/-React.js-48CFF7?style=flat-square&logo=react&logoColor=white" />](https://reactjs.org/)
 [<img alt="Flask" src="https://img.shields.io/badge/-Flask-F9CE3A?style=flat-square&logo=flask&logoColor=black" />](https://flask.palletsprojects.com/en/2.0.x/)
 
