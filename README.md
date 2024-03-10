@@ -1,18 +1,29 @@
 ### Welcome! 🌱
 
 From South Africa comes the full stack developer, Stephen.
+
 <!-- - 🔭 I’m currently working on fully featured bug tracking software. -->
 
-- 🔭 Currently scripting Nim, Vlang and JavaScript courses.
-- 🌱 I’m currently learning AngularJS.
+- 🔭 Currently scripting Vlang, JavaScript and Flutter courses.
+- 🌱 I’m currently learning Zulu and Japanese.
 - 👯 OS of choice: Linux (EndeavourOS w/i3).
 - ⚡ Most loved programming languages: Nim, Dart, TypeScript.
-- &#x1F4AB; Most loved frameworks: Flutter, FastAPI, Next.js.
+- &#x1F4AB; Most loved frameworks: Flutter, FastAPI, Meteor.js.
 
 #### My Skills:
 
+##### Languages
+
+
+[<img alt="Afrikaans" src="https://img.shields.io/badge/-Afrikaans-f79400?style=for-the-badge&label=full&labelColor=black" />](https://en.wikipedia.org/wiki/Afrikaans)
+[<img alt="English" src="https://img.shields.io/badge/-English-022066?style=for-the-badge&label=full&labelColor=black" />](https://en.wikipedia.org/wiki/English_language)
+[<img alt="Esperanto" src="https://img.shields.io/badge/-Esperanto-009402?style=for-the-badge&label=semi&labelColor=black" />](https://en.wikipedia.org/wiki/Esperanto)
+[<img alt="Zulu" src="https://img.shields.io/badge/-Zulu-252423?style=for-the-badge&label=minimal&labelColor=black" />](https://en.wikipedia.org/wiki/Zulu_language)
+[<img alt="Japanese" src="https://img.shields.io/badge/-Japanese-b50227?style=for-the-badge&label=minimal&labelColor=black" />](https://en.wikipedia.org/wiki/Japanese_language)
+<!-- [<img alt="Dutch" src="https://img.shields.io/badge/-Dutch-204486?style=for-the-badge&label=semi&labelColor=black" />](https://en.wikipedia.org/wiki/Dutch_language) -->
 
 ##### Programming Languages
+
 [<img alt="Nim" src="https://img.shields.io/badge/-Nim-FFE953?style=flat-square&logo=Nim&logoColor=black" />](https://nim-lang.org/)
 [<img alt="Dart" src="https://img.shields.io/badge/-Dart-02589b?style=flat-square&logo=dart&logoColor=white" />](https://dart.dev)
 [<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-0077C7?style=flat-square&logo=TypeScript&logoColor=white" />](https://www.typescriptlang.org/)
@@ -26,24 +37,28 @@ From South Africa comes the full stack developer, Stephen.
 [<img alt="PHP" src="https://img.shields.io/badge/-PHP-687AB2?style=flat-square&logo=php&logoColor=white" />](https://www.php.net/)
 [<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-CFB52E?style=flat-square&logo=javascript&logoColor=white" />](https://www.javascript.com/)
 [<img alt="Ruby" src="https://img.shields.io/badge/-Ruby-cc342d?style=flat-square&logo=ruby&logoColor=white" />](https://www.ruby-lang.org/)
+
 <!-- [<img alt="Pascal" src="https://img.shields.io/badge/-Pascal-f2f200?style=flat-square&logo=pascal&logoColor=white" />](https://www.freepascal.org) -->
 
 ##### Libraires and Frameworks
+
 [<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-05589d?style=flat-square&logo=flutter&logoColor=white" />](https://flutter.dev)
+[<img alt="Meteor.js" src="https://img.shields.io/badge/-Meteor.js-ff6a3e?style=flat-square&logo=meteor&logoColor=white" />](https://www.meteor.com/)
 [<img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009485?style=flat-square&logo=fastapi&logoColor=white" />](https://fastapi.tiangolo.com)
 [<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />](https://nextjs.org)
-[<img alt="Meteor.js" src="https://img.shields.io/badge/-Meteor.js-ff6a3e?style=flat-square&logo=meteor&logoColor=white" />](https://www.meteor.com/)
 [<img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby%20On%20Rails-CB0103?style=flat-square&logo=rubyonrails&logoColor=white" />](https://www.meteor.com/)
 [<img alt="React.js" src="https://img.shields.io/badge/-React.js-48CFF7?style=flat-square&logo=react&logoColor=white" />](https://reactjs.org/)
 [<img alt="Flask" src="https://img.shields.io/badge/-Flask-F9CE3A?style=flat-square&logo=flask&logoColor=black" />](https://flask.palletsprojects.com/en/2.0.x/)
 
 ##### Other
+
 [<img alt="Linux" src="https://img.shields.io/badge/-Linux-4C5164?style=flat-square&logo=linux&logoColor=white" />](https://archlinux.org)
 [<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com)
-[<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-DD7510?style=flat-square&logo=mysql&logoColor=white" />](https://www.mysql.com/)
+[<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-DD7510?style=flat-square&logo=mysql&logoColor=black" />](https://www.mysql.com/)
 [<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-608D4A?style=flat-square&logo=MongoDB&logoColor=white" />](https://www.mongodb.com/)
 [<img alt="Supabase" src="https://img.shields.io/badge/-Supabase-33A870?style=flat-square&logo=Supabase&logoColor=white" />](https://supabase.com)
-
+[<img alt="AWS" src="https://img.shields.io/badge/-AWS-ff9900?style=flat-square&logo=amazon&logoColor=white" />](https://aws.amazon.com)
+[<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-fefc45?style=flat-square&logo=Firebase&logoColor=#fefc45" />](https://firebase.google.com)
 
 [![Netsu's Github stats](https://github-readme-stats.vercel.app/api?username=WeebNetsu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeebNetsu&exclude_repo=An-Ni-Go,YouTube-Projects,octoco-tuts&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
@@ -51,6 +66,7 @@ From South Africa comes the full stack developer, Stephen.
 <!-- I have a YouTube channel called [Steve's teacher](https://www.youtube.com/stevesteacher) where I teach other how to code and make occasional how-to and comedy videos. -->
 
 #### Support
+
 Feel free to subscribe to my channels for free weekly educational videos!
 
 [<img alt="YouTube - Steve's teacher" src="https://img.shields.io/badge/-YouTube-FF0000?style=social&logo=youtube&logoColor=FF0000" />](https://www.youtube.com/stevesteacher)
@@ -63,11 +79,17 @@ If you want to support the work I do, please consider donating to me on one of t
 [<img alt="patreon" src="https://img.shields.io/badge/-Patreon-F43F4B?style=flat-square&logo=patreon&logoColor=white" />](https://www.patreon.com/Stevesteacher)
 [<img alt="paypal" src="https://img.shields.io/badge/-PayPal-0c1a55?style=flat-square&logo=paypal&logoColor=white" />](https://www.paypal.com/donate/?hosted_button_id=P9V2M4Q6WYHR8)
 
-----
+---
 
 [My Github Resume](https://resume.github.io/?WeebNetsu)
 
 ![](https://komarev.com/ghpvc/?username=WeebNetsu)
+
+[<img alt="Discord" src="https://img.shields.io/badge/-Discord-404eed?style=flat-square&logo=Discord&logoColor=white" />](https://discord.gg/6h66wm74HS)
+
+<!-- #### 📫 My Socials -->
+
+
 
 <!--
 **WeebNetsu/WeebNetsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
