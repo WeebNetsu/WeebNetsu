@@ -17,9 +17,10 @@ From South Africa comes the full stack developer, Stephen.
 
 [<img alt="Afrikaans" src="https://img.shields.io/badge/-Afrikaans-f79400?style=for-the-badge&label=full&labelColor=black" />](https://en.wikipedia.org/wiki/Afrikaans) &nbsp;
 [<img alt="English" src="https://img.shields.io/badge/-English-022066?style=for-the-badge&label=full&labelColor=black" />](https://en.wikipedia.org/wiki/English_language) &nbsp;
+<!--
 [<img alt="Zulu" src="https://img.shields.io/badge/-Zulu-252423?style=for-the-badge&label=min&labelColor=black" />](https://en.wikipedia.org/wiki/Zulu_language) &nbsp;
 [<img alt="Japanese" src="https://img.shields.io/badge/-Japanese-b50227?style=for-the-badge&label=min&labelColor=black" />](https://en.wikipedia.org/wiki/Japanese_language) &nbsp;
-<!--[<img alt="Dutch" src="https://img.shields.io/badge/-Dutch-204486?style=for-the-badge&label=min&labelColor=black" />](https://en.wikipedia.org/wiki/Dutch_language)
+[<img alt="Dutch" src="https://img.shields.io/badge/-Dutch-204486?style=for-the-badge&label=min&labelColor=black" />](https://en.wikipedia.org/wiki/Dutch_language)
 [<img alt="Esperanto" src="https://img.shields.io/badge/-Esperanto-009402?style=for-the-badge&label=semi&labelColor=black" />](https://en.wikipedia.org/wiki/Esperanto) &nbsp; -->
 
 ##### Programming Languages
