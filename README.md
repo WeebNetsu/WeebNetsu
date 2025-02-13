@@ -5,10 +5,10 @@ From South Africa comes the full stack developer, Stephen.
 <!-- - 🔭 I’m currently working on fully featured bug tracking software. -->
 
 - 🔭 Currently scripting Nim, Afrikaans and PHP courses.
-- 🌱 I’m currently learning Zulu and Japanese.
+- 🌱 I’m currently learning about the brutal cost of living.
 - 👯 OS of choice: Linux (EndeavourOS w/i3).
 - ⚡ Most loved programming languages: Nim, Dart, TypeScript.
-- &#x1F4AB; Most loved frameworks: Flutter, FastAPI, Meteor.js.
+- &#x1F4AB; Most loved frameworks: Flutter, Meteor.js, FastAPI.
 
 #### My Skills:
 
