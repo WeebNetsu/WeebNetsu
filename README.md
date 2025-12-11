@@ -14,9 +14,9 @@ From South Africa comes the full stack developer, Stephen.
 
 ##### Languages
 
-
 [<img alt="Afrikaans" src="https://img.shields.io/badge/-Afrikaans-f79400?style=for-the-badge&label=full&labelColor=black" />](https://en.wikipedia.org/wiki/Afrikaans) &nbsp;
 [<img alt="English" src="https://img.shields.io/badge/-English-022066?style=for-the-badge&label=full&labelColor=black" />](https://en.wikipedia.org/wiki/English_language) &nbsp;
+
 <!--
 [<img alt="Zulu" src="https://img.shields.io/badge/-Zulu-252423?style=for-the-badge&label=min&labelColor=black" />](https://en.wikipedia.org/wiki/Zulu_language) &nbsp;
 [<img alt="Japanese" src="https://img.shields.io/badge/-Japanese-b50227?style=for-the-badge&label=min&labelColor=black" />](https://en.wikipedia.org/wiki/Japanese_language) &nbsp;
@@ -62,8 +62,9 @@ From South Africa comes the full stack developer, Stephen.
 [<img alt="AWS" src="https://img.shields.io/badge/-AWS-ff9900?style=flat-square&logo=amazon&logoColor=white" />](https://aws.amazon.com)
 [<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-fefc45?style=flat-square&logo=Firebase&logoColor=#fefc45" />](https://firebase.google.com)
 
-<!-- [![Netsu's Github stats](https://github-readme-stats.vercel.app/api?username=WeebNetsu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeebNetsu&exclude_repo=An-Ni-Go,YouTube-Projects,octoco-tuts&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Netsu's Github stats](https://github-readme-stats.gatvol.men/api?username=WeebNetsu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.gatvol.men/api/top-langs/?username=WeebNetsu&exclude_repo=An-Ni-Go,YouTube-Projects,octoco-tuts&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- I have a YouTube channel called [Steve's teacher](https://www.youtube.com/stevesteacher) where I teach other how to code and make occasional how-to and comedy videos. -->
 
@@ -101,8 +102,6 @@ If you want to support the work I do, please consider donating to me on one of t
 [<img alt="Discord" src="https://img.shields.io/badge/-Discord-404eed?style=flat-square&logo=Discord&logoColor=white" />](https://discord.gg/6h66wm74HS)
 
 <!-- #### 📫 My Socials -->
-
-
 
 <!--
 **WeebNetsu/WeebNetsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

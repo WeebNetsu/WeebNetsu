@@ -25,4 +25,4 @@ jobs:
           SHOW_MASKED_TIME: true
           # STOP_AT_OTHER: true
           IGNORED_LANGUAGES: YAML JSON TOML
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          COMMIT_MESSAGE: Workflow - Updated waka-readme graph with new metrics
