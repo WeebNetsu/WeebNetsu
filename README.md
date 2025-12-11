@@ -68,6 +68,11 @@ From South Africa comes the full stack developer, Stephen.
 <!-- I have a YouTube channel called [Steve's teacher](https://www.youtube.com/stevesteacher) where I teach other how to code and make occasional how-to and comedy videos. -->
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 #### Support
