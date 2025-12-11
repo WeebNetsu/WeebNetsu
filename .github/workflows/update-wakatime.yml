@@ -14,3 +14,15 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: ->
+          CODE_LANG: rust
+          TIME_RANGE: all_time
+          LANG_COUNT: 5
+          SHOW_TIME: true
+          # SHOW_TOTAL: true
+          SHOW_MASKED_TIME: true
+          # STOP_AT_OTHER: true
+          IGNORED_LANGUAGES: YAML JSON TOML
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
