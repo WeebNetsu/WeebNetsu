@@ -18,7 +18,7 @@ jobs:
           SECTION_NAME: waka
           BLOCKS: ->
           CODE_LANG: rust
-          TIME_RANGE: all_time
+          TIME_RANGE: last_7_days
           LANG_COUNT: 5
           SHOW_TIME: true
           # SHOW_TOTAL: true
