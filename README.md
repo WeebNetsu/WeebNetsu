@@ -63,9 +63,12 @@ From South Africa comes the full stack developer, Stephen.
 [<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-fefc45?style=flat-square&logo=Firebase&logoColor=#fefc45" />](https://firebase.google.com)
 
 <!-- [![Netsu's Github stats](https://github-readme-stats.vercel.app/api?username=WeebNetsu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeebNetsu&exclude_repo=An-Ni-Go,YouTube-Projects,octoco-tuts&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeebNetsu&exclude_repo=An-Ni-Go,YouTube-Projects,octoco-tuts&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- I have a YouTube channel called [Steve's teacher](https://www.youtube.com/stevesteacher) where I teach other how to code and make occasional how-to and comedy videos. -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 #### Support
 
