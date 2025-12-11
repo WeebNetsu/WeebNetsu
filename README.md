@@ -66,10 +66,12 @@ From South Africa comes the full stack developer, Stephen.
 
 [![Top Langs](https://github-readme-stats.gatvol.men/api/top-langs/?username=WeebNetsu&exclude_repo=An-Ni-Go,YouTube-Projects,octoco-tuts&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.gatvol.men/api/wakatime?username=Netsu&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Coding+Stats&layout=compact)
+
 <!-- I have a YouTube channel called [Steve's teacher](https://www.youtube.com/stevesteacher) where I teach other how to code and make occasional how-to and comedy videos. -->
 
 <!--START_SECTION:waka-->
-
+<!-- 
 ```rust
 From: 03 December 2025 - To: 10 December 2025
 
@@ -77,7 +79,7 @@ Total Time: 0 secs
 
 No activity tracked
 ```
-
+-->
 <!--END_SECTION:waka-->
 
 #### Support
