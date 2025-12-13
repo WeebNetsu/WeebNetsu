@@ -1,0 +1,42 @@
+name: Update README cachebuster
+
+on:
+  schedule:
+    # 12pm South Africa time (UTC+2) (10:00 UTC, since Github works on UTC)
+    - cron: "0 10 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update cachebuster
+        run: |
+          FILE=README.md
+
+          # Extract current cachebuster
+          CURRENT=$(grep -o 'cachebuster=[0-9]*' "$FILE" | head -n1 | cut -d= -f2)
+
+          if [ -z "$CURRENT" ]; then
+            echo "cachebuster not found"
+            exit 1
+          fi
+
+          NEXT=$((CURRENT + 1))
+
+          # Replace cachebuster value
+          sed -i "s/cachebuster=$CURRENT/cachebuster=$NEXT/" "$FILE"
+
+          echo "Updated cachebuster: $CURRENT -> $NEXT"
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "workflow: bump cachebuster value" || echo "No changes to commit"
+          git push
