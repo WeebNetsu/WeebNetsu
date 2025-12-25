@@ -66,7 +66,7 @@ From South Africa comes the full stack developer, Stephen.
 
 [![Top Langs](https://github-readme-stats.gatvol.men/api/top-langs/?username=WeebNetsu&exclude_repo=An-Ni-Go,YouTube-Projects,octoco-tuts&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-![Coding Time](https://github-readme-stats.gatvol.men/api/wakatime?username=Netsu&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&langs_count=18&custom_title=Coding+Time+Stats&layout=compact&cachebuster=14)
+![Coding Time](https://github-readme-stats.gatvol.men/api/wakatime?username=Netsu&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&langs_count=18&custom_title=Coding+Time+Stats&layout=compact&cachebuster=15)
 
 <!-- I have a YouTube channel called [Steve's teacher](https://www.youtube.com/stevesteacher) where I teach other how to code and make occasional how-to and comedy videos. -->
 
