@@ -7,8 +7,8 @@ From South Africa comes the full stack developer, Stephen.
 - 🔭 Currently scripting Nim, Afrikaans and PHP courses.
 - 🌱 I’m currently learning C# and financing.
 - 👯 OS of choice: Linux (Mint w/i3).
-- ⚡ Most loved programming languages: Nim, Dart, TypeScript.
-- &#x1F4AB; Most loved frameworks: Flutter, Meteor.js, FastAPI.
+- ⚡ Most loved programming languages: TypeScript, Dart, Nim.
+- &#x1F4AB; Most loved frameworks: Meteor.js, Flutter, FastAPI.
 
 #### My Skills:
 
@@ -16,12 +16,7 @@ From South Africa comes the full stack developer, Stephen.
 
 [<img alt="Afrikaans" src="https://img.shields.io/badge/-Afrikaans-f79400?style=for-the-badge&label=full&labelColor=black" />](https://en.wikipedia.org/wiki/Afrikaans) &nbsp;
 [<img alt="English" src="https://img.shields.io/badge/-English-022066?style=for-the-badge&label=full&labelColor=black" />](https://en.wikipedia.org/wiki/English_language) &nbsp;
-
-<!--
-[<img alt="Zulu" src="https://img.shields.io/badge/-Zulu-252423?style=for-the-badge&label=min&labelColor=black" />](https://en.wikipedia.org/wiki/Zulu_language) &nbsp;
-[<img alt="Japanese" src="https://img.shields.io/badge/-Japanese-b50227?style=for-the-badge&label=min&labelColor=black" />](https://en.wikipedia.org/wiki/Japanese_language) &nbsp;
-[<img alt="Dutch" src="https://img.shields.io/badge/-Dutch-204486?style=for-the-badge&label=min&labelColor=black" />](https://en.wikipedia.org/wiki/Dutch_language)
-[<img alt="Esperanto" src="https://img.shields.io/badge/-Esperanto-009402?style=for-the-badge&label=semi&labelColor=black" />](https://en.wikipedia.org/wiki/Esperanto) &nbsp; -->
+[<img alt="Zulu" src="https://img.shields.io/badge/-Zulu-D2CD01?style=for-the-badge&label=min&labelColor=black" />](https://en.wikipedia.org/wiki/Zulu_language) &nbsp;
 
 ##### Programming Languages
 
@@ -53,7 +48,7 @@ From South Africa comes the full stack developer, Stephen.
 [<img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby%20On%20Rails-CB0103?style=flat-square&logo=rubyonrails&logoColor=white" />](https://www.meteor.com/)
 [<img alt="Flask" src="https://img.shields.io/badge/-Flask-F9CE3A?style=flat-square&logo=flask&logoColor=black" />](https://flask.palletsprojects.com/en/2.0.x/)
 
-##### Other
+##### Other Skills
 
 [<img alt="Linux" src="https://img.shields.io/badge/-Linux-4C5164?style=flat-square&logo=linux&logoColor=white" />](https://archlinux.org)
 [<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com)
@@ -101,23 +96,7 @@ If you want to support the work I do, please consider donating to me on one of t
 
 [My Github Resume](https://resume.github.io/?WeebNetsu)
 
+<!-- Profile view counter -->
 ![](https://komarev.com/ghpvc/?username=WeebNetsu)
 
 [<img alt="Discord" src="https://img.shields.io/badge/-Discord-404eed?style=flat-square&logo=Discord&logoColor=white" />](https://discord.gg/6h66wm74HS)
-
-<!-- #### 📫 My Socials -->
-
-<!--
-**WeebNetsu/WeebNetsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
