@@ -5,7 +5,7 @@ From South Africa comes the full stack developer, Stephen.
 <!-- - 🔭 I’m currently working on fully featured bug tracking software. -->
 
 - 🔭 Currently scripting Nim, Afrikaans and PHP courses.
-- 🌱 I’m currently learning C# and financing.
+- 🌱 I’m currently learning Erlang and financing.
 - 👯 OS of choice: Linux (Mint w/i3).
 - ⚡ Most loved programming languages: TypeScript, Dart, Nim.
 - &#x1F4AB; Most loved frameworks: Meteor.js, Flutter, FastAPI.
