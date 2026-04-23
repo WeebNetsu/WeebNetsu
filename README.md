@@ -81,7 +81,7 @@ No activity tracked
 
 #### Support
 
-Feel free to subscribe to my channels for free weekly educational videos!
+Feel free to subscribe to my channels for free educational videos!
 
 [<img alt="YouTube - Steve's teacher" src="https://img.shields.io/badge/-YouTube-FF0000?style=social&logo=youtube&logoColor=FF0000" />](https://www.youtube.com/stevesteacher)
 [<img alt="Odysee - Steve's teacher" src="https://img.shields.io/badge/-Odysee-EE186F?style=social&logo=odysee&logoColor=EE186F" />](https://odysee.com/@stevesteacher:0)
