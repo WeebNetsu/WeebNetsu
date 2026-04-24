@@ -4,9 +4,9 @@ From South Africa comes the full stack developer, Stephen.
 
 <!-- - 🔭 I’m currently working on fully featured bug tracking software. -->
 
-- 🔭 Currently scripting Nim, Afrikaans and PHP courses.
+- 🔭 Currently scripting Nim, Afrikaans and Nix courses.
 - 🌱 I’m currently learning Erlang and financing.
-- 👯 OS of choice: Linux (Mint w/i3).
+- 👯 OS of choice: Linux (NixOS w/Hyprland).
 - ⚡ Most loved programming languages: TypeScript, Dart, Nim.
 - &#x1F4AB; Most loved frameworks: Meteor.js, Flutter, FastAPI.
 
@@ -58,6 +58,7 @@ From South Africa comes the full stack developer, Stephen.
 [<img alt="AWS" src="https://img.shields.io/badge/-AWS-ff9900?style=flat-square&logo=amazon&logoColor=white" />](https://aws.amazon.com)
 [<img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F6821F?style=flat-square&logo=cloudflare&logoColor=white" />](https://www.cloudflare.com/en-gb/)
 [<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-fefc45?style=flat-square&logo=Firebase&logoColor=#fefc45" />](https://firebase.google.com)
+[<img alt="NixOs" src="https://img.shields.io/badge/-NixOs-e7eefc?style=flat-square&logo=NixOs&logoColor=#74b0da" />](https://nixos.org/)
 
 [![Netsu's Github stats](https://github-readme-stats.gatvol.men/api?username=WeebNetsu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
