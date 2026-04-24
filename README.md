@@ -58,11 +58,11 @@ From South Africa comes the full stack developer, Stephen.
 [<img alt="AWS" src="https://img.shields.io/badge/-AWS-ff9900?style=flat-square&logo=amazon&logoColor=white" />](https://aws.amazon.com)
 [<img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F6821F?style=flat-square&logo=cloudflare&logoColor=white" />](https://www.cloudflare.com/en-gb/)
 [<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-fefc45?style=flat-square&logo=Firebase&logoColor=#fefc45" />](https://firebase.google.com)
-[<img alt="NixOs" src="https://img.shields.io/badge/-NixOs-e7eefc?style=flat-square&logo=NixOs&logoColor=#74b0da" />](https://nixos.org/)
+[<img alt="NixOs" src="https://img.shields.io/badge/-NixOS-e7eefc?style=flat-square&logo=NixOs&logoColor=#74b0da" />](https://nixos.org/)
 
 [![Netsu's Github stats](https://github-readme-stats.gatvol.men/api?username=WeebNetsu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.gatvol.men/api/top-langs/?username=WeebNetsu&exclude_repo=An-Ni-Go,YouTube-Projects,octoco-tuts&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.gatvol.men/api/top-langs/?username=WeebNetsu&hide=cmake&exclude_repo=An-Ni-Go,YouTube-Projects,octoco-tuts&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Coding Time](https://github-readme-stats.gatvol.men/api/wakatime?username=Netsu&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&langs_count=18&custom_title=Coding+Time+Stats&layout=compact&cachebuster=133)
 
