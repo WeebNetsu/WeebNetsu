@@ -62,7 +62,7 @@ From South Africa comes the full stack developer, Stephen.
 
 [![Netsu's Github stats](https://github-readme-stats.gatvol.men/api?username=WeebNetsu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.gatvol.men/api/top-langs/?username=WeebNetsu&hide=cmake,javascript,html&exclude_repo=An-Ni-Go,YouTube-Projects,octoco-tuts&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.gatvol.men/api/top-langs/?username=WeebNetsu&hide=cmake,javascript,html,c%2B%2B&exclude_repo=An-Ni-Go,YouTube-Projects,octoco-tuts&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Coding Time](https://github-readme-stats.gatvol.men/api/wakatime?username=Netsu&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&langs_count=18&custom_title=Coding+Time+Stats&layout=compact&cachebuster=193)
 
