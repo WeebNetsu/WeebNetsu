@@ -5,9 +5,9 @@ From South Africa comes the full stack developer, Stephen.
 <!-- - 🔭 I’m currently working on fully featured bug tracking software. -->
 
 - 🔭 Currently scripting Nim, Afrikaans and Nix courses.
-- 🌱 I’m currently learning Elixir and financing.
+- 🌱 I’m currently learning Erlang and financing.
 - 👯 OS of choice: Linux (NixOS w/Hyprland).
-- ⚡ Most loved programming languages: TypeScript, Dart, Nim.
+- ⚡ Most loved programming languages: TypeScript, Nim, Gleam.
 - &#x1F4AB; Most loved frameworks: Meteor.js, Flutter, FastAPI.
 
 #### My Skills:
@@ -21,21 +21,23 @@ From South Africa comes the full stack developer, Stephen.
 ##### Programming Languages
 
 [<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-0077C7?style=flat-square&logo=TypeScript&logoColor=white" />](https://www.typescriptlang.org/)
-[<img alt="Dart" src="https://img.shields.io/badge/-Dart-02589b?style=flat-square&logo=dart&logoColor=white" />](https://dart.dev)
 [<img alt="Nim" src="https://img.shields.io/badge/-Nim-FFE953?style=flat-square&logo=Nim&logoColor=black" />](https://nim-lang.org/)
+[<img alt="Gleam" src="https://img.shields.io/badge/-Gleam-ffaff3?style=flat-square&logo=gleam&logoColor=white" />](https://gleam.run/)
+[<img alt="Dart" src="https://img.shields.io/badge/-Dart-02589b?style=flat-square&logo=dart&logoColor=white" />](https://dart.dev)
 [<img alt="C#" src="https://img.shields.io/badge/-C%23-BF73D8?style=flat-square&logo=dotnet&logoColor=white" />]([https://kotlinlang.org/](https://learn.microsoft.com/en-us/dotnet/csharp/))
 [<img alt="Python" src="https://img.shields.io/badge/-Python-4985BA?style=flat-square&logo=python&logoColor=white" />](https://www.python.org/)
 [<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-3848A8?style=flat-square&logo=cplusplus&logoColor=white" />](https://www.cplusplus.com)
 [<img alt="Lua" src="https://img.shields.io/badge/-Lua-01007F?style=flat-square&logo=Lua&logoColor=white" />](https://www.lua.org/)
 [<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-C712DC?style=flat-square&logo=kotlin&logoColor=white" />](https://kotlinlang.org/)
 [<img alt="Rust" src="https://img.shields.io/badge/-Rust-f74b00?style=flat-square&logo=rust&logoColor=white" />](https://www.rust-lang.org)
-[<img alt="Go" src="https://img.shields.io/badge/-Go-4985BA?style=flat-square&logo=Go&logoColor=white" />](https://go.dev)
 [<img alt="Delphi" src="https://img.shields.io/badge/-Delphi-EF2C27?style=flat-square&logo=delphi&logoColor=white" />](https://www.embarcadero.com/products/Delphi)
+
+<!--
+[<img alt="Go" src="https://img.shields.io/badge/-Go-4985BA?style=flat-square&logo=Go&logoColor=white" />](https://go.dev)
 [<img alt="PHP" src="https://img.shields.io/badge/-PHP-687AB2?style=flat-square&logo=php&logoColor=white" />](https://www.php.net/)
 [<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-CFB52E?style=flat-square&logo=javascript&logoColor=white" />](https://www.javascript.com/)
 [<img alt="Ruby" src="https://img.shields.io/badge/-Ruby-cc342d?style=flat-square&logo=ruby&logoColor=white" />](https://www.ruby-lang.org/)
-
-<!-- [<img alt="Pascal" src="https://img.shields.io/badge/-Pascal-f2f200?style=flat-square&logo=pascal&logoColor=white" />](https://www.freepascal.org) -->
+[<img alt="Pascal" src="https://img.shields.io/badge/-Pascal-f2f200?style=flat-square&logo=freepascal&logoColor=white" />](https://www.freepascal.org) -->
 
 ##### Libraires and Frameworks
 
