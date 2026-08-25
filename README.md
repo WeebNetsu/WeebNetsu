@@ -4,7 +4,7 @@ From South Africa comes the full stack developer, Stephen.
 
 <!-- - 🔭 I’m currently working on fully featured bug tracking software. -->
 
-- 🔭 Currently scripting Nim, Afrikaans and Nix courses.
+- 🔭 Currently scripting LOVR, Gleam and Nix courses.
 - 🌱 I’m currently learning Erlang and financing.
 - 👯 OS of choice: Linux (NixOS w/Hyprland).
 - ⚡ Most loved programming languages: TypeScript, Nim, Gleam.
