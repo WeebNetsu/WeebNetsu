@@ -1,14 +1,12 @@
-### Welcome! 🌱
+### Welkom
 
-From South Africa comes the full stack developer, Stephen.
+I am a proud Christian and South African - developer, educator, content creator, and Linux enthusiast. Stephen, at your service.
 
-<!-- - 🔭 I’m currently working on fully featured bug tracking software. -->
-
-- 🔭 Currently scripting LOVR, Gleam and Nix courses.
-- 🌱 I’m currently learning Erlang and financing.
-- 👯 OS of choice: Linux (NixOS w/Hyprland).
+- 🎬 Currently scripting Gleam and Nix courses.
+- 🧠 I’m currently learning LOVR and financing.
+- 🐧 OS of choice: Linux (NixOS w/Hyprland).
 - ⚡ Most loved programming languages: TypeScript, Nim, Gleam.
-- &#x1F4AB; Most loved frameworks: Meteor.js, Flutter, FastAPI.
+- 🚀 Most loved frameworks: Meteor.js, Flutter, Love2D.
 
 #### My Skills:
 
@@ -23,7 +21,7 @@ From South Africa comes the full stack developer, Stephen.
 [<img alt="Nim" src="https://img.shields.io/badge/-Nim-FFE953?style=flat-square&logo=Nim&logoColor=black" />](https://nim-lang.org/)
 [<img alt="Gleam" src="https://img.shields.io/badge/-Gleam-ffaff3?style=flat-square&logo=gleam&logoColor=white" />](https://gleam.run/)
 [<img alt="Dart" src="https://img.shields.io/badge/-Dart-02589b?style=flat-square&logo=dart&logoColor=white" />](https://dart.dev)
-[<img alt="C#" src="https://img.shields.io/badge/-C%23-BF73D8?style=flat-square&logo=dotnet&logoColor=white" />]([https://kotlinlang.org/](https://learn.microsoft.com/en-us/dotnet/csharp/))
+[<img alt="C#" src="https://img.shields.io/badge/-C%23-BF73D8?style=flat-square&logo=dotnet&logoColor=white" />](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [<img alt="Python" src="https://img.shields.io/badge/-Python-4985BA?style=flat-square&logo=python&logoColor=white" />](https://www.python.org/)
 [<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-3848A8?style=flat-square&logo=cplusplus&logoColor=white" />](https://www.cplusplus.com)
 [<img alt="Lua" src="https://img.shields.io/badge/-Lua-01007F?style=flat-square&logo=Lua&logoColor=white" />](https://www.lua.org/)
@@ -32,7 +30,7 @@ From South Africa comes the full stack developer, Stephen.
 [<img alt="Delphi" src="https://img.shields.io/badge/-Delphi-EF2C27?style=flat-square&logo=delphi&logoColor=white" />](https://www.embarcadero.com/products/Delphi)
 
 
-##### Libraires and Frameworks
+##### Libraries and Frameworks
 
 [<img alt="Meteor.js" src="https://img.shields.io/badge/-Meteor.js-ff6a3e?style=flat-square&logo=meteor&logoColor=white" />](https://www.meteor.com/)
 [<img alt="Love2D" src="https://img.shields.io/badge/-Love2D-E64398?style=flat-square&logo=ilovepdf&logoColor=black" />](https://love2d.org/)
@@ -41,12 +39,12 @@ From South Africa comes the full stack developer, Stephen.
 [<img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009485?style=flat-square&logo=fastapi&logoColor=white" />](https://fastapi.tiangolo.com)
 [<img alt="Tauri" src="https://img.shields.io/badge/-Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" />](https://tauri.app)
 [<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />](https://nextjs.org)
-[<img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby%20On%20Rails-CB0103?style=flat-square&logo=rubyonrails&logoColor=white" />](https://www.meteor.com/)
+[<img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby%20On%20Rails-CB0103?style=flat-square&logo=rubyonrails&logoColor=white" />](https://rubyonrails.org/)
 [<img alt="Flask" src="https://img.shields.io/badge/-Flask-F9CE3A?style=flat-square&logo=flask&logoColor=black" />](https://flask.palletsprojects.com/en/2.0.x/)
 
 ##### Other Skills
 
-[<img alt="Linux" src="https://img.shields.io/badge/-Linux-4C5164?style=flat-square&logo=linux&logoColor=white" />](https://archlinux.org)
+[<img alt="Linux" src="https://img.shields.io/badge/-Linux-4C5164?style=flat-square&logo=linux&logoColor=white" />](https://www.kernel.org/)
 [<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com)
 [<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-608D4A?style=flat-square&logo=MongoDB&logoColor=white" />](https://www.mongodb.com/)
 [<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-DD7510?style=flat-square&logo=mysql&logoColor=black" />](https://www.mysql.com/)
