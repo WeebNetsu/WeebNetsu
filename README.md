@@ -1,4 +1,4 @@
-### Welkom
+## Welkom
 
 I am a proud Christian and South African - developer, educator, content creator, and Linux enthusiast. Stephen, at your service.
 
@@ -7,8 +7,6 @@ I am a proud Christian and South African - developer, educator, content creator,
 - 🐧 OS of choice: Linux (NixOS w/Hyprland).
 - ⚡ Most loved programming languages: TypeScript, Nim, Gleam.
 - 🚀 Most loved frameworks: Meteor.js, Flutter, Love2D.
-
-#### My Skills:
 
 ##### Languages
 
@@ -59,20 +57,6 @@ I am a proud Christian and South African - developer, educator, content creator,
 [![Top Langs](https://github-readme-stats.gatvol.men/api/top-langs/?username=WeebNetsu&hide=cmake,html&exclude_repo=An-Ni-Go,YouTube-Projects,octoco-tuts&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Coding Time](https://github-readme-stats.gatvol.men/api/wakatime?username=Netsu&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&langs_count=18&custom_title=Coding+Time+Stats&layout=compact&cachebuster=257)
-
-<!-- I have a YouTube channel called [Steve's teacher](https://www.youtube.com/stevesteacher) where I teach other how to code and make occasional how-to and comedy videos. -->
-
-<!--START_SECTION:waka-->
-<!-- 
-```rust
-From: 03 December 2025 - To: 10 December 2025
-
-Total Time: 0 secs
-
-No activity tracked
-```
--->
-<!--END_SECTION:waka-->
 
 #### Support
 
