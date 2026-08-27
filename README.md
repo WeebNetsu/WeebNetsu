@@ -56,7 +56,7 @@ I am a proud Christian and South African - developer, educator, content creator,
 
 [![Top Langs](https://github-readme-stats.gatvol.men/api/top-langs/?username=WeebNetsu&hide=cmake,html&exclude_repo=An-Ni-Go,YouTube-Projects,octoco-tuts&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-![Coding Time](https://github-readme-stats.gatvol.men/api/wakatime?username=Netsu&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&langs_count=18&custom_title=Coding+Time+Stats&layout=compact&cachebuster=257)
+![Coding Time](https://github-readme-stats.gatvol.men/api/wakatime?username=Netsu&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&langs_count=18&custom_title=Coding+Time+Stats&layout=compact&cachebuster=258)
 
 #### Support
 
