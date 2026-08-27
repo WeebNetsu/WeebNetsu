@@ -16,7 +16,6 @@ From South Africa comes the full stack developer, Stephen.
 
 [<img alt="Afrikaans" src="https://img.shields.io/badge/-Afrikaans-f79400?style=for-the-badge&label=full&labelColor=black" />](https://en.wikipedia.org/wiki/Afrikaans) &nbsp;
 [<img alt="English" src="https://img.shields.io/badge/-English-022066?style=for-the-badge&label=full&labelColor=black" />](https://en.wikipedia.org/wiki/English_language) &nbsp;
-[<img alt="Zulu" src="https://img.shields.io/badge/-Zulu-D2CD01?style=for-the-badge&label=min&labelColor=black" />](https://en.wikipedia.org/wiki/Zulu_language) &nbsp;
 
 ##### Programming Languages
 
@@ -32,20 +31,15 @@ From South Africa comes the full stack developer, Stephen.
 [<img alt="Rust" src="https://img.shields.io/badge/-Rust-f74b00?style=flat-square&logo=rust&logoColor=white" />](https://www.rust-lang.org)
 [<img alt="Delphi" src="https://img.shields.io/badge/-Delphi-EF2C27?style=flat-square&logo=delphi&logoColor=white" />](https://www.embarcadero.com/products/Delphi)
 
-<!--
-[<img alt="Go" src="https://img.shields.io/badge/-Go-4985BA?style=flat-square&logo=Go&logoColor=white" />](https://go.dev)
-[<img alt="PHP" src="https://img.shields.io/badge/-PHP-687AB2?style=flat-square&logo=php&logoColor=white" />](https://www.php.net/)
-[<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-CFB52E?style=flat-square&logo=javascript&logoColor=white" />](https://www.javascript.com/)
-[<img alt="Ruby" src="https://img.shields.io/badge/-Ruby-cc342d?style=flat-square&logo=ruby&logoColor=white" />](https://www.ruby-lang.org/)
-[<img alt="Pascal" src="https://img.shields.io/badge/-Pascal-f2f200?style=flat-square&logo=freepascal&logoColor=white" />](https://www.freepascal.org) -->
 
 ##### Libraires and Frameworks
 
 [<img alt="Meteor.js" src="https://img.shields.io/badge/-Meteor.js-ff6a3e?style=flat-square&logo=meteor&logoColor=white" />](https://www.meteor.com/)
-[<img alt="Tauri" src="https://img.shields.io/badge/-Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" />](https://tauri.app)
+[<img alt="Love2D" src="https://img.shields.io/badge/-Love2D-E64398?style=flat-square&logo=ilovepdf&logoColor=black" />](https://love2d.org/)
 [<img alt="React.js" src="https://img.shields.io/badge/-React.js-48CFF7?style=flat-square&logo=react&logoColor=white" />](https://reactjs.org/)
 [<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-05589d?style=flat-square&logo=flutter&logoColor=white" />](https://flutter.dev)
 [<img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009485?style=flat-square&logo=fastapi&logoColor=white" />](https://fastapi.tiangolo.com)
+[<img alt="Tauri" src="https://img.shields.io/badge/-Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" />](https://tauri.app)
 [<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />](https://nextjs.org)
 [<img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby%20On%20Rails-CB0103?style=flat-square&logo=rubyonrails&logoColor=white" />](https://www.meteor.com/)
 [<img alt="Flask" src="https://img.shields.io/badge/-Flask-F9CE3A?style=flat-square&logo=flask&logoColor=black" />](https://flask.palletsprojects.com/en/2.0.x/)
