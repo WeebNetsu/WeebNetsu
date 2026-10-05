@@ -54,7 +54,7 @@ I am a proud Christian and South African - developer, educator, content creator,
 
 [![Netsu's Github stats](https://github-readme-stats.gatvol.men/api?username=WeebNetsu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.gatvol.men/api/top-langs/?username=WeebNetsu&hide=cmake,html&exclude_repo=An-Ni-Go,YouTube-Projects,octoco-tuts&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.gatvol.men/api/top-langs/?username=WeebNetsu&hide=cmake,html&exclude_repo=An-Ni-Go,YouTube-Projects,wildduck-setup-for-tutorial,octoco-tuts&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Support
 
