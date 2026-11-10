@@ -3,7 +3,7 @@
 I am a proud Christian and South African - developer, educator, content creator, and Linux enthusiast. Stephen, at your service.
 
 - 🎬 Currently scripting Gleam and Nix courses.
-- 🧠 I’m currently learning LOVR and financing.
+- 🧠 I’m currently learning LOVR and Defold.
 - 🐧 OS of choice: Linux (NixOS w/Hyprland).
 - ⚡ Most loved programming languages: TypeScript, Nim, Gleam.
 - 🚀 Most loved frameworks: Meteor.js, Flutter, Love2D.
